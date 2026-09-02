@@ -667,7 +667,7 @@ if (!empty($data->name) && !empty($data->email) && !empty($data->password)) {
                   </span>
                 </div>
                 <p>
-                  Export or push this repository to GitHub. The included GitHub Actions workflow will automatically compile the Android APK in the cloud with Java 17, Gradle 8, and Android SDK, outputting a downloadable <code>app-debug.apk</code> artifact under the <strong>Actions</strong> tab.
+                  Export or push this repository to GitHub. The included GitHub Actions workflow will automatically compile the Android APK in the cloud with Java 21, Gradle 8, and Android SDK, outputting a downloadable <code>app-debug.apk</code> artifact under the <strong>Actions</strong> tab.
                 </p>
               </div>
 
