@@ -1,0 +1,6 @@
+{
+  "name": "YouthFit – Healthy Habit & Lifestyle",
+  "description": "Evidence-based health, habit management, and lifestyle companion for youth with daily routines, hydration, exercises, focus timers, and wellness guidance.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

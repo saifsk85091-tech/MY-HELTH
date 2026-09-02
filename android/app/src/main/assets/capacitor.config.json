@@ -1,0 +1,6 @@
+{
+	"appId": "com.youthfit.app",
+	"appName": "YouthFit",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
